@@ -1,0 +1,13 @@
+[project]
+name = "ml-final-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "catboost>=1.2.8",
+    "lightgbm>=4.6.0",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "xgboost>=3.1.2",
+]
